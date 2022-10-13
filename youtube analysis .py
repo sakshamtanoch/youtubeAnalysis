@@ -219,19 +219,6 @@ def get_vid_id (youtube_service, playlist_id):
 video_data = get_vid_id (youtube_service, playlist_id)
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
